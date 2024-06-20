@@ -1,0 +1,39 @@
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.csproj.AssemblyReference.cache
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.Form1.resources
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.csproj.GenerateResource.cache
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.AssemblyInfoInputs.cache
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.AssemblyInfo.cs
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.csproj.CoreCompileInputs.cache
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.exe
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.deps.json
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.runtimeconfig.json
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.dll
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.pdb
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.dll
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\refint\PruebaLudo.dll
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.pdb
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.genruntimeconfig.cache
+D:\Programacion\UTN\Programacion 3\Practicas\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\ref\PruebaLudo.dll
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.exe
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.deps.json
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.runtimeconfig.json
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.dll
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\bin\Debug\net6.0-windows\PruebaLudo.pdb
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.Form1.resources
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.Form2.resources
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.Properties.Resources.resources
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.dll
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\refint\PruebaLudo.dll
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.pdb
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\ref\PruebaLudo.dll
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.LudoUnJugador.resources
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.dosJugadores.resources
+C:\Users\Usuario\Downloads\PruebaLudo\PruebaLudo\obj\Debug\net6.0-windows\PruebaLudo.TresJugadores.resources
